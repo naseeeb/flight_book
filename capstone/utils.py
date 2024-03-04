@@ -5,7 +5,7 @@ from django.template.loader import get_template
 from flight.models import *
 import secrets
 from datetime import datetime, timedelta
-from xhtml2pdf import pisa
+#from xhtml2pdf import pisa
 
 from flight.constant import FEE
 
